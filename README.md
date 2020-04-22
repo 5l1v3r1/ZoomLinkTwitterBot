@@ -1,3 +1,7 @@
+![The Zoom link bot in action!](https://i.imgur.com/pt3tSRB.png)
+
+<br/>
+
 ![Zoom.us/j search in Twitter](https://i.imgur.com/TLtIr1n.png)
 
 # About the Bot
