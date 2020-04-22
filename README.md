@@ -1,8 +1,6 @@
 ![The Zoom link bot in action!](https://i.imgur.com/pt3tSRB.png)
 
-<br/>
 
-![Zoom.us/j search in Twitter](https://i.imgur.com/TLtIr1n.png)
 
 # About the Bot
 
@@ -16,7 +14,11 @@ zoom.us/j/**********?pwd=**************** <br/>
 
               ↑1             ↑2
               
-The first string contains the meeting ID and the second string contains the meeting password.             
+The first string contains the meeting ID and the second string contains the meeting password.  
+
+<br/>
+
+![Zoom.us/j search in Twitter](https://i.imgur.com/TLtIr1n.png)
      
 
 ## Further Reading
